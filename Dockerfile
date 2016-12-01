@@ -1,4 +1,4 @@
-FROM ubuntu:14:04
+FROM ubuntu:14.04
 MAINTAINER W Brune "github@brune.biz"
 # ORIGINAL MAINTAINER Tobias Mandjik "webmaster@leckerbeef.de"
 # ORIGINAL MAINTAINER Felix Bartels "felix@host-consultants.de"
